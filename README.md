@@ -19,7 +19,7 @@ A project about quantization of neural networks
    - 理解校准集(calibration dataset)相关知识
 
 - week3
-   - 使用MMDeploy部署并量化MMCls中的ResNet模型
+   - 使用MMDeploy部署并量化MMClS中的ResNet模型
    - 理解deploy.py的工作流程
    - 简单了解ppq的工作原理
    
